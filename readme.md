@@ -41,9 +41,13 @@ Der henvises til betingelserne for CALDISS bridging projekt, som beskrevet på: 
 **Risikoskala:**
 
 0: Offentlig, ingen problemer
+
 1: Et potentielt problem (personlig og/eller proprietær)
+
 2: To potentielle problemer (personlig og proprietær)
+
 3: Et faktisk problem (personlig og/eller proprietær)
+
 4: To faktiske problemer (personlig og proprietær)
 
 | Kilde | Risiko | Opbevaring | Note |
